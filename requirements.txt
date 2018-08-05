@@ -1,0 +1,5 @@
+Django<=2.1
+lasotuvi==0.1.1
+pytz==2018.5
+six==1.11.0
+typed-ast==1.1.0

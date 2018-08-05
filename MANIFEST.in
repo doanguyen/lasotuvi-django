@@ -1,0 +1,2 @@
+recursive-include lasotuvi_django/static *
+recursive-include lasotuvi_django/templates *
